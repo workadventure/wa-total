@@ -3739,11 +3739,16 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"jitsiSalle3"
-                        }, 
+                        },
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"speaker"
+                        },
+                        {
+                            "name":"openWebsite",
+                            "type":"string",
+                            "value":"https://miro.com/app/board/uXjVOnOeCFY=/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
